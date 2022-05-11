@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         server: ftp.majconsulting.ma
-        username: FTP_SECRET_NAME
-        password: FTP_SECRET_PASSWORD
+        username: kiwi@majconsulting.ma
+        password: kiwila1212T
